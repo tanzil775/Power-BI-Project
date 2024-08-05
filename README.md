@@ -22,23 +22,29 @@ locations.
 • To create interactive dashboards and pivot tables in Power BI for dynamic data
 exploration.
 
+
 Tools and Technologies
 • ETL (Extract, Transform, Load): Extract data from various sources and
 Transform into Power Query Editor for cleaning and management in the end
 load data into Data Model.
+
 • Power Query Editor: Built into Power BI, Power Query allows you to extract
 data from various sources, clean, transform, and load it into the Power BI
 model
+
 • SQL Server: A relational database management system that can store
 structured data.
 • DAX (Data Analysis Expressions): A formula language used in Power BI,
 Excel, and SQL Server Analysis Services for creating custom calculations and
 measures.
+
 • PivotTable: Create PivotTables to analyze and visualize your data model. You
 can drag and drop fields from different tables, and the relationships you
 defined will ensure the data is correctly aggregated and filtered.
+
 • Power BI Desktop: The primary tool for designing and creating data models
 and visualizations. It includes: Data view, Report view and Model view.
+
 • Power BI Service: A cloud-based service where you can publish and share
 Power BI reports and dashboards.
 
